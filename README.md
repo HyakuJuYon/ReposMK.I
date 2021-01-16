@@ -8,9 +8,9 @@ What do we *(not)* know so far:
 	
 * What's up with **Revision Control**
 	
-* What's up with **Git**, like overall
+* What's up with **Git**, like *overall*
 	
-* What's up with **GitHub**. Kinda.
+* What's up with **GitHub**. *Kinda*.
 	
 * What's up with **MD**
 	
